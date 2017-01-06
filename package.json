@@ -1,0 +1,38 @@
+{
+  "name": "font-extensions",
+  "version": "0.0.0",
+  "description": "List of font file extensions",
+  "license": "MIT",
+  "repository": "awcross/font-extensions",
+  "author": {
+    "name": "Alex Cross",
+    "email": "crossaw@gmail.com",
+    "url": "alexcross.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "main": "font-extensions.json",
+  "files": [
+    "font-extensions.json"
+  ],
+  "keywords": [
+    "eot",
+    "ttf",
+    "woff",
+    "font",
+    "ext",
+    "extensions",
+    "extension",
+    "file",
+    "json",
+    "list",
+    "array"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  }
+}
